@@ -1,0 +1,20 @@
+{
+  "name": "@shenyuan/createfile",
+  "version": "1.0.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "cf": "./generateFile.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shen1992/createFile.git"
+  }
+}
